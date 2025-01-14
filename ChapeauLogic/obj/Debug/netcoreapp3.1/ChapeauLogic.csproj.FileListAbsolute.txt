@@ -1,0 +1,15 @@
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.csproj.AssemblyReference.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.AssemblyInfoInputs.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.AssemblyInfo.cs
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.csproj.CoreCompileInputs.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauLogic.deps.json
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauLogic.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauLogic.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauDAL.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauModel.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauDAL.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\bin\Debug\netcoreapp3.1\ChapeauModel.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauLogic\obj\Debug\netcoreapp3.1\ChapeauLogic.csproj.CopyComplete

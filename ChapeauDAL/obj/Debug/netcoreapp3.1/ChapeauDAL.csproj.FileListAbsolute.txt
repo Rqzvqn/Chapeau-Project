@@ -1,0 +1,12 @@
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\bin\Debug\netcoreapp3.1\ChapeauDAL.deps.json
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\bin\Debug\netcoreapp3.1\ChapeauDAL.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\bin\Debug\netcoreapp3.1\ChapeauDAL.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\bin\Debug\netcoreapp3.1\ChapeauModel.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\bin\Debug\netcoreapp3.1\ChapeauModel.pdb
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.csproj.AssemblyReference.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.AssemblyInfoInputs.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.AssemblyInfo.cs
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.csproj.CoreCompileInputs.cache
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.dll
+C:\UnivPrograms\1.4ProjectRetakke\ChapeauDAL\obj\Debug\netcoreapp3.1\ChapeauDAL.pdb
